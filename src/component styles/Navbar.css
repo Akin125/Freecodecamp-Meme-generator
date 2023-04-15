@@ -1,0 +1,28 @@
+nav{
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    padding: 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+img{
+    width: 50px;
+}
+.lg-container{
+    display: flex;
+    align-items: center;
+}
+
+.lg--name{
+    margin-left: 20px;
+}
+
+.nav-sm-text{
+    font-weight: normal;
+}
