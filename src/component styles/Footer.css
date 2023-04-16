@@ -5,4 +5,8 @@ footer{
     color: white;
     font-weight: lighter;
     background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }

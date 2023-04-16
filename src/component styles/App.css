@@ -3,6 +3,10 @@
   padding: 0;
   font-family: "Poppins", "sans-serif";
 }
+body{
+  height: 100vh;
+  /*background-color: #363636;*/
+}
 
 body::-webkit-scrollbar{
   background: #dadada;
@@ -13,3 +17,33 @@ body::-webkit-scrollbar-thumb{
   background-color: #A626D3;
   width: 2px;
 }
+/*cruiz*/
+
+/*main{*/
+/*  width: 100%;*/
+/*  display: flex;*/
+/*  text-align: center;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*}*/
+/*div.gg{*/
+/*  height: 100px;*/
+/*  width: 100px;*/
+/*  border-radius: 50%;*/
+/*  cursor: pointer;*/
+/*  background-color: #ffffff;*/
+/*  margin-left: 20px;display: flex;*/
+/*  text-align: center;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+
+/*}*/
+/*h1{*/
+/*  color: white;*/
+/*}*/
+/*.gg h1{*/
+
+/*  text-align: center;*/
+/*  padding: 10px;*/
+/*  color: black;*/
+/*}*/
